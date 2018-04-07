@@ -6,7 +6,7 @@ int My::BaseApplication::Initialize()
 	return 0;
 }
 
-int My::BaseApplication::Finalize()
+void My::BaseApplication::Finalize()
 {
 	
 }
